@@ -43,6 +43,8 @@ knitr::include_graphics("image/aaa_bump_plot.png")
 
 ```
 
+# Ted Laderas
+
 ```{r fig.width=8, fig.height=8}
 library(plotly)
 library(wesanderson)
